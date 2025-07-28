@@ -1,9 +1,13 @@
-<h2 align="center">Welcome to my GitHub — I’m Maria, student and developer</h2>
+<h1 align="center">Welcome to my GitHub — I’m Maria, student and developer</h1>
+
+###
+
+<p align="left">Hi! 👋<br>I'm Maria, a Computer Science student passionate about turning ideas into interactive and meaningful code.<br>I love exploring new technologies, designing clean user experiences, and building real projects that connect logic with creativity.<br>Here you’ll find my experiments, personal projects, and everything I’m learning along the way.<br><br>Let’s build something awesome together.</p>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bymariia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=city_lights&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bymariia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -44,8 +48,10 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/bymariia/bymariia/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bymariia/bymariia/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bymariia/bymariia/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bymariia/bymariia/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
