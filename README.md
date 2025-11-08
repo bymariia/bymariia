@@ -1,4 +1,4 @@
-<h2 align="left">Welcome to my GitHub — I’m Maria, student and developer</h2>
+<h2 align="left">Welcome to my GitHub — I’m Maria, student and developer 🎀</h2>
 
 ###
 
@@ -46,11 +46,6 @@
 
 ###
 
-<div align="center">
-</div>
-
-###
-
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJsZXQwNWdtc2h6ejJ2bTN5ZHR6ZHpjMGVndm5zZWZjdWxlbGRyciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ASd0Ukj0y3qMM/giphy.gif"  />
 
 ###
@@ -63,14 +58,6 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bymariia/bymariia/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bymariia/bymariia/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bymariia/bymariia/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="left">
   <a href="www.linkedin.com/in/bymariaap" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -78,8 +65,8 @@
   <a href="mallup._" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
 </div>
 
 ###
