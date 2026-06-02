@@ -11,10 +11,10 @@ I'm a Computer Science student and Data Engineer who is constantly learning and 
 Here, I share a bit of my journey, including projects, studies, and experiences that are shaping my career in the tech world.
 <br><br>
 
-🚀 Learning, improving, and growing one project at a time.
+Learning, improving, and growing one project at a time.
 <br><br>
 
-Let's build something awesome together.
+Let's build something awesome together!
 </h4>
 
 <div align="left">
