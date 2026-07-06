@@ -20,9 +20,7 @@ Let's build something awesome together!
 <div align="left">
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGdjdnB3Z25xd2gwc2l4dzJrYzNtMDhhbnZvYWIwdzIwaWVnc3BteSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EZr27ZbJwmjE9PGyLN/giphy.gif" />
 
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NjhiMWRqbDAwOXp3cjIxYjhweTJnZTQ5d3NjbXN4bGljbzR1OHhwayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/K1oJhRNg8YrJCNUrSB/giphy.gif" />
-</div>
-
+  
 <br>
 
 <h2 align="left">About me</h2>
